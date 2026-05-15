@@ -2,7 +2,7 @@
 
 MCP server for the [Remnawave](https://remnawave.com) panel API.
 
-Built with the [`@mishkat/remnawave-sdk`](https://github.com/mishkatik/remnawave-sdk) TypeScript SDK.
+Built without TypeScript SDK for remnawave.
 
 ## Requirements
 
@@ -36,7 +36,7 @@ Add to `~/Library/Application Support/Claude/claude_desktop_config.json` (macOS)
 }
 ```
 
-## Available Tools
+## Available Tools (Not full list)
 
 ### Auth
 | Tool | Description |
