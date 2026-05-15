@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "remnawave": {
+            "command": "node",
+            "args": [
+                "/Users/lixelv/Documents/dev/remnawave-mcp2/dist/server.js"
+            ],
+            "env": {
+                "REMNAWAVE_BASE_URL": "https://panel.example.com",
+                "REMNAWAVE_API_TOKEN": "xxx"
+            }
+        }
+    }
+}
